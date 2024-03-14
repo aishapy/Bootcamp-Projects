@@ -6,7 +6,7 @@ Welcome to my repository showcasing the  projects I have completed during the th
 Throughout the bootcamp, I delved into various aspects of data science, from data exploration and visualisation to machine learning and NLP models. Each project presented unique challenges and opportunities for learning, allowing me to apply newly acquired knowledge and techniques in real-world scenarios.
 
 ## Projects♡  
-*# 1. Financial Calculator  
-- Description: 
+###### Financial Calculator  
+* Description: 
 
 

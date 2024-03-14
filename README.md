@@ -1,10 +1,4 @@
-# **Sentiment Analysis (Final Capstone Project)**
+# **✨Aishapy's Projects✨**
 
-This project required that I compared the sentiment and polarity scores of customer reviews for a range of products on Amazon.  
-
-To install this project locally: I suggest cloning the repository. Navigate to the directory you'd like to clone the repository.  
-
-Navigate to the project directory using the cd command.  
-
-To use this project, simply run the Jupyter Notebook file. The Python Script is purely for the Task requirements.
+Welcome to the collection of projects I have coded as part of the HyperionDev Data Science Bootcamp! While I am still a beginner this is just a glimpse into what I have learnt over the past 3 months.
 

@@ -1,4 +1,4 @@
-# **✨Aishapy's Projects✨**
+# **✨My Projects✨**
 
 Welcome to my repository showcasing the  projects I have completed during the three-month HyperionDev Data Science Bootcamp! As a total beginner, I embarked on this journey to learn the fundamentals of data science and develop practical skills in analysing and interpreting data.  
 

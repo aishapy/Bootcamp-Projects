@@ -16,4 +16,9 @@ Throughout the bootcamp, I delved into various aspects of data science, from dat
   * Investment return calculation
 
 ## 2. NLP Capstone Project👩‍💻
-
+***Description**: This capstone project explores the use of NLP techniques to analyse semantic similarities and polarity scores in customer reviews. The project aims to quantify the likeness between customer reviews and identify common themes and sentiments across different interactions. Measuring semantic similarities, allows the project to extract meaningful insights from the data.
+* **Technologies used**:Python, Jupyter Notebook
+*  **Features**:
+   * NLP algorithims to preprocess and analyse textual data from customer reviews
+   * Measures semantic similarities between reviews to identify common themes and sentiments.
+   * Calculates polarity scores to determine the sentiment of customer feedback.

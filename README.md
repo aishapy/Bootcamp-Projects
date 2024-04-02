@@ -7,7 +7,16 @@ Throughout the bootcamp, I delved into various aspects of data science, from dat
 
 
 ## Projects♡  
-## 1. NLP Capstone Project👩‍💻
+
+## 1. Financial Calculator➗ 
+* **Description**: Developed a finacial calculator to work out the ROI the user will receive based on a certain amount of investment. The calculator also finds out how much the user will pay in repayments for the purchase of a house.
+* **Technologies used**:Python
+* **Features**:
+  * Simple and Compound interest
+  * Bond repayments
+  * Investment return calculation
+
+## 2. NLP Capstone Project👩‍💻
 ***Description**: This capstone project explores the use of NLP techniques to analyse semantic similarities and polarity scores in customer reviews. The project aims to quantify the likeness between customer reviews and identify common themes and sentiments across different interactions. Measuring semantic similarities, allows the project to extract meaningful insights from the data.
 * **Technologies used**:Python, Jupyter Notebook
 *  **Features**:
@@ -16,11 +25,4 @@ Throughout the bootcamp, I delved into various aspects of data science, from dat
    * Calculates polarity scores to determine the sentiment of customer feedback.
 
 
-## 2. Financial Calculator➗ 
-* **Description**: Developed a finacial calculator to work out the ROI the user will receive based on a certain amount of investment. The calculator also finds out how much the user will pay in repayments for the purchase of a house.
-* **Technologies used**:Python
-* **Features**:
-  * Simple and Compound interest
-  * Bond repayments
-  * Investment return calculation
 

@@ -9,7 +9,7 @@ Throughout the bootcamp, I delved into various aspects of data science, from dat
 ## Projects♡  
 
 ## 1. Financial Calculator➗ 
-* **Description**: Developed a finacial calculator to work out the ROI the user will receive based on a certain amount of investment. The calculator also finds out how much the user will pay in repayments for the purchase of a house.
+* **Description**: Developed a financial calculator to work out the ROI the user will receive based on a certain amount of investment. The calculator also finds out how much the user will pay in repayments for the purchase of a house.
 * **Technologies used**:Python
 * **Features**:
   * Simple and Compound interest

@@ -31,4 +31,3 @@ if user_input_calc == "investment":
         print("Invalid input, please try again.")
 
 
-   # hi a bit confused because the calculations are holding the code back :/, please correct in markings.    
